@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CHlFDOlQjjBv9wIS4lf2wGnwsTGpWSdVumF3uRZgCxjTj8eCm45HpaOAPl8WgJZUeOldIHE+kPS5PdD0lrPDrQ==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\dotnet-workspace\\chat-io\\server\\server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aditya\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Aditya\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Aditya\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Aditya\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Aditya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Aditya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
